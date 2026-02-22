@@ -103,4 +103,7 @@ Theme preference is persisted with `@AppStorage` and applies instantly with a sm
 
 ## Screenshots
 
-*Coming soon*
+<img width="240" alt="Simulator Screenshot - iPhone 17 Pro - 2026-02-22 at 20 38 19" src="https://github.com/user-attachments/assets/c0cc0135-1754-4f4d-8dad-ec8e360b2701" />
+<img width="240" alt="Simulator Screenshot - iPhone 17 Pro - 2026-02-22 at 20 38 51" src="https://github.com/user-attachments/assets/1937d3dc-a988-4375-9b2f-58cb7493a56d" />
+<img width="240" alt="Simulator Screenshot - iPhone 17 Pro - 2026-02-22 at 20 39 53" src="https://github.com/user-attachments/assets/df722cd2-4368-4749-abd1-538bb60eb697" />
+<img width="240" alt="Simulator Screenshot - iPhone 17 Pro - 2026-02-22 at 20 39 36" src="https://github.com/user-attachments/assets/de88cd12-ac32-43f8-b107-6e788acc5d0d" />
