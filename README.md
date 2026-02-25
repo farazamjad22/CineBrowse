@@ -58,7 +58,7 @@ CineBrowse/
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/your-username/CineBrowse.git
+   git clone https://github.com/farazamjad22/CineBrowse-iOS-App.git
    cd CineBrowse
    ```
 
